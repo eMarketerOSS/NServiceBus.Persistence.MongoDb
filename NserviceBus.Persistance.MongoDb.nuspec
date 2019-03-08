@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NServiceBus.Persistence.MongoDb</id>
+    <version>$version$</version>
+    <description>
+      NServiceBus.Persistence.MongoDb.NetStandard Nuget Package
+    </description>
+    <authors>eMarketer</authors>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+  </metadata>
+</package>
