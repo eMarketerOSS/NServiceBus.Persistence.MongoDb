@@ -8,4 +8,7 @@
     </description>
     <authors>eMarketer</authors>
   </metadata>
+  <files>
+    <file src="bin\Debug\netstandard2.0\*.dll" target="lib" />
+  </files>
 </package>
