@@ -7,8 +7,5 @@
       NServiceBus.Persistence.MongoDb.NetStandard Nuget Package
     </description>
     <authors>eMarketer</authors>
-    <packageTypes>
-      <packageType name="Template" />
-    </packageTypes>
   </metadata>
 </package>
